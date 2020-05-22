@@ -1,0 +1,255 @@
+278.7455468129999 = 278.7456 + 
+
+358.4318885967657
+
+
+------------
+0 0 0 5 5 5 = 
+45
+7.0710678
+54.73561040789
+sdist = 8.660254028156
+
+
+hdist = 14.142135623730950488016887242097
+height = 10
+deg = 35.142
+vBrg = 
+125.2643895921
+125.26438968275465431537700033002
+
+
+4.780392558081237E8 
+
+4.780392558081227E8
+
+---------------------------------------------
+
+PT-data.getOriginEasting = 5.5555555533348E8
+PT-data.getOriginNorthing = 4.5666666622344E8
+PT-data.getOriginHeight = 5.0
+PT-data.getTargetWcb = 50.57979496682765
+PT-data.getSlopingBearing = 90.00000079670782
+PT-data.getSlopingDistance = 7.191567294764054E8
+PT-data.getTargetEasting = 12.2334
+PT-data.getTargetNorthing = 4.3332
+PT-data.getTargetHeight = -5.0
+here
+PT-data TargetEasting = 12.2334
+PT-polar TargetEasting = 1.11111109843356E9
+PT-data TargetNorthing = 4.3332
+PT-polar TargetNorthing = 913333328.1137
+PT-data TargetHeight = -5.0
+PT-polar TargetHeight = -5
+
+
+
+
+
+
+44530.67365241761
+
+54771.18383622176
+
+------------------------
+
+PT-data.getOriginEasting = 49247.754753921094
+PT-data.getOriginNorthing = 22781.785350025086
+PT-data.getOriginHeight = 21322.316611463193
+PT-data.getTargetWcb = 331.42566471056443
+PT-data.getSlopingBearing = 65.7173693250648
+PT-data.getSlopingDistance = 83087.89722012832
+PT-data.getTargetEasting = 89293.76547443493
+PT-data.getTargetNorthing = 13022.885818120294
+PT-data.getTargetHeight = 55491.22111507253
+here
+PT-data TargetEasting = 89293.76547443493
+PT-polar TargetEasting = 13022.885818120245
+PT-data TargetNorthing = 13022.885818120294
+PT-polar TargetNorthing = 89293.7655
+PT-data TargetHeight = 55491.22111507253
+PT-polar TargetHeight = 55491.2211
+
+
+e2+n2 = 2944351092.0369753440773488074642
+sqrt = 54261.875124593467591691373003074
+
+
+
+------------------------------------
+
+given e,n,h - calc brg + dist
+
+deltaEasting=-835.4201446746989
+deltaNorthing=15340.303765981405
+
+PT-data.getOriginEasting = 89865.21442537237
+PT-data.getOriginNorthing = 14606.413157869909
+PT-data.getOriginHeight = 19746.561229738338
+PT-data.getTargetWcb = 356.8827988819389
+PT-data.getSlopingBearing = 49.56234097856621
+PT-data.getSlopingDistance = 20184.982004193436
+PT-data.getTargetEasting = 29946.716923851312
+PT-data.getTargetNorthing = 89029.79428069765
+PT-data.getTargetHeight = 32838.95031878169
+here
+
+
+deltaE = -59918.497501521058
+deltaN = 74423.381122827741
+deltaH = 13092.389089043352
+wcb = 321.16234958178431591419252600911
+hDist = 95546.145922237270620037764244207
+sDist = 96438.9789071429313890623983119
+vBrg = 82.197530665459639922523655317373
+
+
+
+
+--- given brg + dist check e,n,h
+
+
+
+
+
+PT-data.getOriginEasting = 81196.33782417013
+PT-data.getOriginNorthing = 10249.222262482146
+PT-data.getOriginHeight = 826.1727119347895
+PT-data.getTargetWcb = 337.200883592182
+PT-data.getSlopingBearing = 86.79352958422706
+PT-data.getSlopingDistance = 72286.40707667165
+PT-data.getTargetEasting = 76783.50347856968
+PT-data.getTargetNorthing = 53229.108703573074
+PT-data.getTargetHeight = 4869.459299464055
+here
+PT-data TargetEasting = 76783.50347856968
+PT-polar TargetEasting = 53229.108703573154
+PT-data TargetNorthing = 53229.108703573074
+PT-polar TargetNorthing = 76783.5035
+PT-data TargetHeight = 4869.459299464055
+PT-polar TargetHeight = 4869.4593
+---------------
+
+deltaE = -4412.83434560045
+deltaN = 42979.886441090928
+deltaH = 4043.2865875292655
+wcb = 354.13786422407209829944452281026
+hDist = 43205.829993772631476598339684453
+sBrg = 84.653718767073464282017200302483
+sDist = 43394.606944638602190803493803793
+
+----------------------------------------
+
+PT-data.getOriginEasting = 9247.173173005232
+PT-data.getOriginNorthing = 61345.94125198477
+PT-data.getOriginHeight = 19139.490714455183
+PT-data.getTargetWcb = 70.28966016601254
+PT-data.getSlopingBearing = 64.43481114528895
+PT-data.getSlopingDistance = 81819.7870867563
+PT-data.getTargetEasting = 78731.88021144448
+PT-data.getTargetNorthing = 86239.2162683899
+PT-data.getTargetHeight = 54447.817008150065
+
+de = 69484.707038439248
+dn = 24893.27501640513
+dh = 35308.326293694882
+wcb = 63.062814145939628982337226632396
+
+
+---------------------------------------------
+
+PT-data.getOriginEasting = 48304.27212968149
+PT-data.getOriginNorthing = 54306.518979268236
+PT-data.getOriginHeight = 2306.3237503293944
+PT-data.getTargetWcb = 223.0247765826639
+PT-data.getSlopingBearing = 70.4252229993925
+PT-data.getSlopingDistance = 69792.66819319429
+PT-data.getTargetEasting = 3435.9468019231545
+PT-data.getTargetNorthing = 6232.826467318152
+PT-data.getTargetHeight = 25689.437402583393
+here
+PT-data TargetEasting = 3435.9468019231545
+PT-polar TargetEasting = 230.57961773139687
+PT-data TargetNorthing = 6232.826467318152
+PT-polar TargetNorthing = 9438.1937
+PT-data TargetHeight = 25689.437402583393
+PT-polar TargetHeight = 25689.4374
+
+de = -44868.3253277583355
+dn = -48073.692511950084
+dh = 23383.1136522539986
+
+hdist = 65759.003409807585997787165781725
+wcb = 223.02477658266390595511648066198
+vBrg = 70.425222999392493385993034238466
+sDist = 69792.668193194283804190412898475
+
+---------------------------------------
+
+0
+0
+0
+45'2135
+1'1938
+sdist=20
+10 points
+sdist total = 200
+
+3.2965832
+3.2554205
+199.946
+
+--------------------------------------
+
+
+0
+0
+0
+125
+124
+123
+
+45'1348.368
+176.0710084
+214.7789561
+55'0345.185
+
+---------------------------------------
+0
+0
+0
+1.12345
+1'12345
+1.209583333
+sdist=20
+
+hdist=0.42219287136822665850003045895758
+de=0.00891233860059287740385644129639
+dn=0.42209879271502604724296940629995
+dh=19.995543332937113565044997559661
+
+correct
+----------------------------------------
+
+
+polygon
+0
+0
+50
+0
+
+8.7155743
+
+
+
+
+
+
+
+
+
+
+
+
+
+
